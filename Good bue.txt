@@ -1,0 +1,2 @@
+print('Good bue')
+print('Good bue everybody')
